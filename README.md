@@ -6,7 +6,7 @@ DOI: UNPUBLISHED
 
 ## Root
 
-Here you can find full data set (FULL_DATA.csv) and full correlation heatmaps for each sampling time and field.
+Here you can find full data set (FULL_DATA.csv) and full correlation heatmaps images (.svg) for each sampling time and field, and the ones used in the paper.
 
 ### Correlations
 
