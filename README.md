@@ -1,7 +1,7 @@
 # Correlation and Exploratory factor analysis with plant and soil data
 Data (raw, transformed, and subsets) used in "Root-soil interactions for pepper accessions grown under organic and conventional farming" paper analysis and scripts for corelation and exploratory factor analysis in R language
 
-DOI: UNPUBLISHED
+DOI: https://doi.org/10.3390/plants12091873
 
 Here you can find full data set (FULL_DATA.csv) and two directories: Correlations and EFA.
 
